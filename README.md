@@ -1,5 +1,5 @@
 # money
-zepto
+zepto： https://bugsc.github.io/money/
 
 # 主要功能实现       
   1、采用了zepto的手势swipeUp，swipeDown 事件             
